@@ -11,3 +11,7 @@ function App() {
 }
 
 export default App
+
+
+//Conditional rendering = allows you to control what gets rendered in your application based on certain conditions. 
+// (ex. show, hide, or change components)
